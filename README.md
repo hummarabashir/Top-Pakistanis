@@ -6,4 +6,5 @@
 
 <div align="center">
 <img src="Homepage.png" alt="Homepage" />
+<img src="employee_profile1.png" alt="Employee Profile" />
 </div>
