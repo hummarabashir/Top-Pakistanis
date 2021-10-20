@@ -16,9 +16,15 @@
 <table>
   <tr>
     <td valign="top"><img src="employee_profile11.png" alt=""/></td>
+    <td valign="top"><img src="employer_dashboard.png" alt=""/></td>
+    <td valign="top"><img src="allprofiles.png" alt=""/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td valign="top"><img src="admin-manage_jobseekers.png" alt=""/></td>
     <td valign="top"><img src="employee_profile22.png" alt=""/></td>
     <td valign="top"><img src="employee_profile33.png" alt=""/></td>
-    <td valign="top"><img src="allprofiles.png" alt=""/></td>
   </tr>
 </table>
 <table>
@@ -27,7 +33,6 @@
     <td valign="top"><img src="admin-profile.png" alt=""/></td>
     <td valign="top"><img src="admin-add_skills.png" alt=""/></td>
     <td valign="top"><img src="admin-categories.png" alt=""/></td>
-    <td valign="top"><img src="admin-manage_jobs.png" alt=""/></td>
   </tr>
 </table>
 <table>
