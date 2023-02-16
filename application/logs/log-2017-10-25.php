@@ -1,0 +1,9 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-10-25 12:16:50 --> Query error: Column 'subcat_id' cannot be null - Invalid query: INSERT INTO `tbl_job` (`job_title`, `user_id`, `clevel_id`, `cat_id`, `subcat_id`, `skill_id`, `job_emptype`, `job_vacancies`, `job_sdate`, `job_edate`, `job_explevel`, `job_edatestatus`, `job_shift`, `job_gender`, `job_age`, `checkbox_value`, `job_salery_min`, `job_salery_max`, `job_sallery_currency`, `benefit_id`, `filter_gender`, `filter_experience`, `filter_age`, `filter_city`, `job_description`, `preffered_skills`, `job_location`) VALUES ('Php developer', '71', '3', '3', NULL, 'NULL', 'part-time', '1', '2017-10-25', '2017-10-25', '< 1 Year', 'job_active', 'evening_shift', 'Male', '15-20', '1', '10000', '15000', NULL, '1,2,5', 'on', NULL, NULL, NULL, 'description here', 'php,asp.net', 'Islamabad Capital Territory, Pakistan')
+ERROR - 2017-10-25 12:35:30 --> 1
+ERROR - 2017-10-25 09:22:26 --> Severity: Notice --> Trying to get property of non-object /home/jobscomp/public_html/application/helpers/multi_language_helper.php 31
+ERROR - 2017-10-25 09:22:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/jobscomp/public_html/system/core/Exceptions.php:271) /home/jobscomp/public_html/system/helpers/url_helper.php 561
+ERROR - 2017-10-25 09:23:30 --> Severity: Notice --> Trying to get property of non-object /home/jobscomp/public_html/application/helpers/multi_language_helper.php 31
+ERROR - 2017-10-25 09:23:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/jobscomp/public_html/system/core/Exceptions.php:271) /home/jobscomp/public_html/system/helpers/url_helper.php 561
+ERROR - 2017-10-25 15:32:13 --> 1

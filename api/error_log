@@ -1,0 +1,132 @@
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[26-Nov-2016 04:10:17 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[26-Nov-2016 04:10:34 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[26-Nov-2016 04:10:39 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[27-Nov-2016 23:55:39 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: title in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 17
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: full_name in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 18
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: email in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 19
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: mobile_number in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 20
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: date_of_birth in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 21
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: notification in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 22
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: hear_about_us in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 23
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: segment_of_KTE in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 24
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_ambience in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 25
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_quality in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 26
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_variety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 27
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_pricing in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 28
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_hygiene in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 29
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_safety in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 30
+[29-Nov-2016 22:54:57 America/Denver] PHP Notice:  Undefined index: rate_us_customer_care in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 31
+[13-Dec-2016 07:31:02 America/Denver] PHP Notice:  Undefined index: user_id in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 16
+[13-Dec-2016 07:51:27 America/Denver] PHP Notice:  Undefined index: user_id in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 16
+[14-Dec-2016 04:26:54 America/Denver] PHP Notice:  Undefined index: username in /home1/ebmacsne/public_html/info/api/Login.php on line 15
+[14-Dec-2016 04:26:54 America/Denver] PHP Notice:  Undefined index: log in /home1/ebmacsne/public_html/info/api/Login.php on line 16
+[14-Dec-2016 04:26:57 America/Denver] PHP Notice:  Undefined index: username in /home1/ebmacsne/public_html/info/api/Login.php on line 15
+[14-Dec-2016 04:26:57 America/Denver] PHP Notice:  Undefined index: log in /home1/ebmacsne/public_html/info/api/Login.php on line 16
+[14-Dec-2016 04:43:07 America/Denver] PHP Notice:  Undefined index: username in /home1/ebmacsne/public_html/info/api/Login.php on line 15
+[14-Dec-2016 04:43:07 America/Denver] PHP Notice:  Undefined index: log in /home1/ebmacsne/public_html/info/api/Login.php on line 16
+[14-Dec-2016 04:43:09 America/Denver] PHP Notice:  Undefined index: username in /home1/ebmacsne/public_html/info/api/Login.php on line 15
+[14-Dec-2016 04:43:09 America/Denver] PHP Notice:  Undefined index: log in /home1/ebmacsne/public_html/info/api/Login.php on line 16
+[31-Dec-2016 05:59:58 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2013): Lost connection to MySQL server at 'reading authorization packet', system error: 0 in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 05:59:58 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2013): Lost connection to MySQL server at 'reading authorization packet', system error: 0 in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:00:51 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:00:51 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:00:51 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:00:51 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:00:51 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:00:52 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:01:57 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:04 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:11 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:13 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:15 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:17 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:49 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:02:58 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9
+[31-Dec-2016 06:03:04 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/ebmacsne/public_html/info/api/addCustomerFeedback.php on line 9

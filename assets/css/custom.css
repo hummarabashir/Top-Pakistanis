@@ -1,0 +1,27 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	
+}
+
+.modal-dialog {
+
+    width: 900px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    }
+    .modal-footer {
+
+    margin-top: 0px;
+}
+.modal-body{
+	padding: 15px;
+}
+.modal-header {
+
+    padding: 10px;
+    }

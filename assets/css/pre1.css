@@ -1,0 +1,218 @@
+.profile{
+	background-color: #fafafa;
+	padding-top: 25px;
+}
+
+.profile > button, .about > button{
+	background-color: #9ccb46;
+	color: white;
+	text-transform: uppercase;
+}
+.profile > button:hover, .about > button:hover{
+	background-color: #749B2B;
+	color: white;
+	text-transform: uppercase;
+	border: none !important;
+}
+
+.about{
+	padding-left: 0 !important;
+}
+
+.about >h1{
+    font-weight: 600;
+    letter-spacing: -1px;
+	color: #3a3a3b;
+}
+
+.about > h4{
+    margin-left: 0px;
+    font-weight: 600;
+    letter-spacing: 0px;
+	/*text-transform: uppercase;*/
+	color: #858587;
+}
+.about > p:first-of-type{
+	margin-top: 20px !important;
+}
+.about > p{
+    /* margin-left: 0px; */
+    /*font-weight: 600;*/
+    letter-spacing: 0px;
+	/* text-transform: uppercase; */
+	color: #585858;
+	text-align: justify;
+}
+
+/* .on-info{
+	display: inline;
+}
+
+.on-info > div:first-child{
+	padding: 10px 10px 0 0 !important;
+	display: inline-block;
+}
+.on-info > div:nth-child(2){
+	padding-left: 5px !important;
+	display: inline-block;
+} */
+
+
+
+
+
+@media only screen and (max-width: 768px){
+	.smal-prof >img{
+		max-height: 270px;
+	}
+	.about{
+		padding-right: 0 !important;
+	}
+}
+	.on-info{
+		display: flex;
+		margin-bottom: 20px;
+	}
+	.on-info > div:nth-child(2){
+		/* display: block; */
+		width: 100% !important;
+	}
+	.on-info > div:nth-child(2) > h4{
+		color: #3a3a3b;
+		font-weight: bold;
+		margin-top: 0px !important;
+		margin-left: 0 !important;
+	}
+	.on-info > div:nth-child(2) > h5{
+		color: #858587;
+		font-weight: bold;
+		
+	}
+	.on-info > div:first-child > img{
+		max-width: 50px;
+		/* padding-top: 0px;	 */
+	}
+	.on-info > div:first-child{
+		/* max-width: 50px; */
+		padding-top: 0px !important;
+		padding-right: 10px;	
+	}
+
+.edu,.skill{
+	padding-bottom: 25px;
+}
+
+.edu >center >h2{
+	margin: 30px 0;
+	font-weight: bold;
+}
+
+.card,.slid{
+	margin-bottom: 25px;
+}
+
+@media only screen and (max-width: 450px){
+	.card{
+		width: 100% !important;
+	}
+}
+
+.card >div{
+	border-radius: 5px;
+	border: 1px solid #efefef;
+	box-shadow: 0px 0px 1px 0px lightgray;
+	transition: all 0.5s;
+}
+.card >div>h3{
+	margin: 15px 0px;
+	font-weight: 600;
+	color: #3a3a3b;
+	transition: all 0.5s;
+}.card >div>h4{
+	font-weight: 600;
+	color: #585858;
+	transition: all 0.5s;
+}.card >div>p{
+	margin: 15px 0px;
+	color: #707070;
+	transition: all 0.5s;
+}
+
+.card:hover > div{
+	background-color: #fafafa;
+	box-shadow: 0px 0px 1px 0px gray;
+}
+
+.card:hover > div >h4{
+	color: #9ccb46;
+}
+.card:hover > div >h3{
+	color: #f8626d;
+}
+
+.skill >center >h2{
+	margin: 30px 0;
+	font-weight: bold;
+}
+
+.edu , .skill{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+
+.slid{
+	border-radius: 3px;
+	border: 1px solid #efefef;
+	box-shadow: 0px 0px 1px 0px lightgray;
+}
+
+.slid > div > h3{
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.slid  .progress>.progress-bar-success {
+    background-color: #9ccb46 !important;
+}
+
+.slid > .bar{
+	margin-bottom: 20px;
+}
+.slid .val{
+	display: flex !important;
+	width: 100%;
+} 
+.slid  .val > .progress{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	margin-top: 4px !important;
+	width: 100% !important;
+}
+.slid .val >.num{
+	/* width: 8% !important; */
+}
+.slid .val >.num >span{
+	float: right;
+	color: #515151;
+	font-weight: 600;
+	font-size: 18px;
+}
+
+.bar-hid{
+	display: none;
+	font-weight: 600;
+}
+
+@media only screen and (max-width: 400px){
+	.bar-hid{
+		display: inline;
+	}
+	.num{
+		display: none;
+	}
+	.progress{
+		width: 100% !important;
+	}
+
+}

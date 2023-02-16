@@ -1,0 +1,357 @@
+[25-Aug-2017 12:08:19 UTC] PHP Fatal error:  Function name must be a string in /home/jobscomp/public_html/application/controllers/WebServices.php on line 60
+[25-Aug-2017 12:08:28 UTC] PHP Fatal error:  Function name must be a string in /home/jobscomp/public_html/application/controllers/WebServices.php on line 60
+[25-Aug-2017 12:10:14 UTC] PHP Fatal error:  Function name must be a string in /home/jobscomp/public_html/application/controllers/WebServices.php on line 60
+[28-Aug-2017 11:17:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 41
+[28-Aug-2017 13:09:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 41
+[28-Aug-2017 13:10:01 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 34
+[28-Aug-2017 13:14:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 41
+[29-Aug-2017 06:46:47 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 34
+[29-Aug-2017 13:43:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 69
+[30-Aug-2017 12:00:27 UTC] PHP Fatal error:  Call to a member function check_profile() on null in /home/jobscomp/public_html/application/controllers/WebServices.php on line 352
+[30-Aug-2017 12:00:49 UTC] PHP Fatal error:  Call to a member function check_profile() on null in /home/jobscomp/public_html/application/controllers/WebServices.php on line 352
+[07-Sep-2017 14:35:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jobscomp/public_html/application/controllers/Stripe/Payment.php on line 166
+[27-Sep-2017 08:05:19 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/jobscomp/public_html/application/controllers/Users.php on line 120
+[27-Sep-2017 08:05:19 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/jobscomp/public_html/application/controllers/Users.php on line 120
+[27-Sep-2017 08:05:43 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/jobscomp/public_html/application/controllers/Users.php on line 120
+[27-Sep-2017 08:05:43 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/jobscomp/public_html/application/controllers/Users.php on line 120
+[02-Oct-2017 16:38:16 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[02-Oct-2017 16:38:56 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[02-Oct-2017 16:39:03 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[05-Oct-2017 09:42:17 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[10-Oct-2017 09:52:59 UTC] PHP Fatal error:  Cannot access empty property in /home/jobscomp/public_html/application/controllers/Site.php on line 108
+[10-Oct-2017 10:03:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/jobscomp/public_html/application/controllers/Site.php on line 142
+[10-Oct-2017 12:44:17 UTC] PHP Fatal error:  Call to a member function update_data() on null in /home/jobscomp/public_html/application/controllers/Site.php on line 188
+[10-Oct-2017 12:44:39 UTC] PHP Fatal error:  Call to a member function update_data() on null in /home/jobscomp/public_html/application/controllers/Site.php on line 189
+[10-Oct-2017 13:22:50 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[10-Oct-2017 13:39:52 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[10-Oct-2017 13:45:07 UTC] PHP Fatal error:  Call to a member function is_authenticated() on null in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 18
+[10-Oct-2017 13:45:51 UTC] PHP Fatal error:  Call to a member function is_authenticated() on null in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 18
+[10-Oct-2017 13:50:05 UTC] PHP Fatal error:  Call to a member function is_authenticated() on null in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 18
+[10-Oct-2017 13:50:32 UTC] PHP Fatal error:  Call to a member function is_authenticated() on null in /home/jobscomp/public_html/application/controllers/User_authentication.php on line 18
+[10-Oct-2017 14:22:46 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 36
+[10-Oct-2017 14:42:04 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[11-Oct-2017 09:04:20 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[11-Oct-2017 09:04:29 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[11-Oct-2017 09:07:38 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 34
+[11-Oct-2017 09:07:43 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 34
+[11-Oct-2017 09:08:10 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 34
+[11-Oct-2017 09:08:39 UTC] PHP Fatal error:  Call to a member function set_userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 80
+[11-Oct-2017 09:10:52 UTC] PHP Fatal error:  Call to a member function set_userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 84
+[11-Oct-2017 09:12:00 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 84
+[11-Oct-2017 09:14:28 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[13-Oct-2017 10:43:54 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/jobscomp/public_html/application/views/backend/superadmin/modal_jobseekers_view.php on line 41
+[13-Oct-2017 10:44:58 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/jobscomp/public_html/application/views/backend/superadmin/modal_jobseekers_view.php on line 41
+[13-Oct-2017 13:30:53 UTC] PHP Parse error:  syntax error, unexpected 'Functions' (T_STRING), expecting ',' or ';' in /home/jobscomp/public_html/application/views/site/template/header.php on line 107
+[13-Oct-2017 18:30:54 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Functions' (T_STRING), expecting ',' or ';' in /home/jobscomp/public_html/application/views/site/template/header.php on line 107
+[18-Oct-2017 10:47:16 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[19-Oct-2017 10:29:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/jobscomp/public_html/application/controllers/Site.php on line 330
+[24-Oct-2017 23:40:25 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[02-Nov-2017 04:13:33 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[14-Nov-2017 07:26:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jobscomp/public_html/application/controllers/WebServices.php on line 516
+[14-Nov-2017 07:26:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jobscomp/public_html/application/controllers/WebServices.php on line 516
+[14-Nov-2017 07:26:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jobscomp/public_html/application/controllers/WebServices.php on line 516
+[14-Nov-2017 07:26:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jobscomp/public_html/application/controllers/WebServices.php on line 516
+[14-Nov-2017 07:28:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jobscomp/public_html/application/controllers/WebServices.php on line 516
+[14-Nov-2017 07:28:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jobscomp/public_html/application/controllers/WebServices.php on line 516
+[14-Nov-2017 08:06:20 UTC] PHP Fatal error:  Function name must be a string in /home/jobscomp/public_html/application/controllers/WebServices.php on line 514
+[14-Nov-2017 17:43:29 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[26-Nov-2017 07:13:27 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[29-Nov-2017 08:22:57 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[29-Nov-2017 20:37:23 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[14-Dec-2017 15:29:24 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[21-Dec-2017 04:16:26 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[21-Dec-2017 19:03:13 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[22-Dec-2017 00:58:30 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[23-Dec-2017 08:12:36 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[23-Dec-2017 08:13:00 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/jobscomp/public_html/application/controllers/User_authenticationg.php on line 38
+[29-Jan-2018 16:41:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:44 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:44 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:44 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:46 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:46 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:46 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:48 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:48 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:48 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:51 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:51 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:51 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:53 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:53 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:53 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:23:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:00 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:00 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:00 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:07 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:07 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:07 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:16 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:16 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:16 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:19 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:19 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:19 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:30 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:30 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:30 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:35 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:35 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:35 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:37 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:37 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:37 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:44 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:44 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:44 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:49 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:49 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:49 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:51 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:51 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:51 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:54 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:54 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:54 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:56 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:56 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:56 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:24:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:01 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:01 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:01 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:03 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:03 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:03 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:05 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:05 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:05 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:10 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:10 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:10 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:20 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:20 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:20 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:22 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:22 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:22 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:24 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:24 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:24 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:27 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:27 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:27 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:29 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:29 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:29 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:34 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:34 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:34 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:37 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:37 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:37 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:39 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:41 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:41 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:41 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:43 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:43 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:43 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:46 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:46 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:46 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:48 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:48 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:48 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:50 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:50 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:50 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:55 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:25:58 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:03 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:03 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:03 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:05 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:05 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:05 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:07 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:07 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:07 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:10 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:10 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:10 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:12 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:14 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:16 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:16 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:16 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:19 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:19 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:19 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:30 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:30 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:30 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:26:32 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:44:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:44:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:44:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:46:34 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:46:34 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:46:34 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:50:27 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:50:27 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 18:50:27 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 19:23:40 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 19:23:40 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 19:23:40 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 19:51:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 19:51:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 19:51:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:09 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:13 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:13 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:07:13 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:09:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:09:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:09:42 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:09:43 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:09:43 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[29-Mar-2018 20:09:43 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 21:49:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 21:49:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 21:49:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 21:49:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 21:49:08 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 22:31:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 22:31:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 22:31:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 22:31:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 22:31:04 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:09:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:09:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:09:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:09:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:09:02 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:52:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:52:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:52:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:52:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[31-May-2018 23:52:26 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:06:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:06:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:06:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:06:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:06:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:44:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:44:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:44:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:44:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:44:47 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:59:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:59:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:59:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:59:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[01-Jun-2018 00:59:28 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[10-Apr-2019 10:26:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Paypal has a deprecated constructor in /home/top/public_html/application/libraries/Paypal.php on line 93
+[10-Apr-2019 10:26:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Pdf has a deprecated constructor in /home/top/public_html/application/libraries/Pdf.php on line 4
+[10-Apr-2019 10:26:07 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/top/public_html/application/third_party/m/mpdf/application/third_party/mpdf/mpdf.php on line 1422
+[11-Apr-2019 06:54:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Paypal has a deprecated constructor in /home/top/public_html/application/libraries/Paypal.php on line 93
+[11-Apr-2019 06:54:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Pdf has a deprecated constructor in /home/top/public_html/application/libraries/Pdf.php on line 4
+[11-Apr-2019 06:54:00 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/top/public_html/application/third_party/m/mpdf/application/third_party/mpdf/mpdf.php on line 1422

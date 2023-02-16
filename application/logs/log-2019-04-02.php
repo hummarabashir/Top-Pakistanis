@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-02 09:07:24 --> Query error: Column 'check_present' cannot be null - Invalid query: INSERT INTO `cv_workexperience` (`to_date`, `from_date`, `check_present`, `designation`, `organization_name`, `description`, `user_id`) VALUES ('2019-08-22', '2019-06-05', NULL, 'Testing', 'testing', '<p>Lorem ipsum dolor set amit lorem ipsum dolor set amit testing testing testing</p>', '1')
+ERROR - 2019-04-02 09:41:20 --> Query error: Unknown column 'userfile' in 'field list' - Invalid query: UPDATE `cv_portfolio` SET `title` = 'Lorem Ipsum', `description` = ' Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum dolor set amit Lorem Ipsum  ', `link` = '', `userfile` = 'http://toppakistanis.com/beta/uploads/user_image/user_3.jpg', `picture_url` = 'http://toppakistanis.com/beta/uploads/user_image/user_5.png'
+WHERE `id` = '1'

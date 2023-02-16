@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-09-30 09:57:48 --> entered in filter function  4
+ERROR - 2017-09-30 09:57:48 --> entered in filter function  job
+ERROR - 2017-09-30 10:10:56 --> entered in filter function  4
+ERROR - 2017-09-30 10:10:56 --> entered in filter function  job
+ERROR - 2017-09-30 10:11:06 --> entered in filter function  4
+ERROR - 2017-09-30 10:11:06 --> entered in filter function  job
+ERROR - 2017-09-30 11:45:10 --> entered in filter function  4
+ERROR - 2017-09-30 11:45:10 --> entered in filter function  full-time
+ERROR - 2017-09-30 11:45:10 --> entered in filter function  15000
+ERROR - 2017-09-30 11:45:10 --> entered in filter function  30000
+ERROR - 2017-09-30 11:45:17 --> entered in filter function  4
+ERROR - 2017-09-30 11:45:17 --> entered in filter function  full-time
+ERROR - 2017-09-30 11:45:17 --> entered in filter function  15000
+ERROR - 2017-09-30 11:45:17 --> entered in filter function  30000
+ERROR - 2017-09-30 11:45:23 --> entered in filter function  4
+ERROR - 2017-09-30 11:45:23 --> entered in filter function  full-time
+ERROR - 2017-09-30 11:45:23 --> entered in filter function  15000
+ERROR - 2017-09-30 11:45:23 --> entered in filter function  30000
+ERROR - 2017-09-30 11:45:37 --> entered in filter function  4
+ERROR - 2017-09-30 11:45:37 --> entered in filter function  full-time
+ERROR - 2017-09-30 11:45:37 --> entered in filter function  15000
+ERROR - 2017-09-30 11:45:37 --> entered in filter function  30000
+ERROR - 2017-09-30 11:45:40 --> entered in filter function  4
+ERROR - 2017-09-30 11:45:40 --> entered in filter function  full-time
+ERROR - 2017-09-30 11:45:40 --> entered in filter function  15000
+ERROR - 2017-09-30 11:45:40 --> entered in filter function  30000
+ERROR - 2017-09-30 11:46:12 --> entered in filter function  4
+ERROR - 2017-09-30 11:46:12 --> entered in filter function  full-time
+ERROR - 2017-09-30 11:46:12 --> entered in filter function  15000
+ERROR - 2017-09-30 11:46:12 --> entered in filter function  30000

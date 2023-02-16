@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-02-07 13:30:46 --> entered in filter function  4
+ERROR - 2018-02-07 13:30:46 --> entered in filter function  intership
+ERROR - 2018-02-07 13:30:46 --> entered in filter function  5000
+ERROR - 2018-02-07 13:30:46 --> entered in filter function  15000
+ERROR - 2018-02-07 13:31:00 --> entered in filter function  4
+ERROR - 2018-02-07 13:31:00 --> entered in filter function  intership
+ERROR - 2018-02-07 13:31:00 --> entered in filter function  5000
+ERROR - 2018-02-07 13:31:00 --> entered in filter function  15000
+ERROR - 2018-02-07 13:31:01 --> entered in filter function  4
+ERROR - 2018-02-07 13:31:01 --> entered in filter function  intership
+ERROR - 2018-02-07 13:31:01 --> entered in filter function  5000
+ERROR - 2018-02-07 13:31:01 --> entered in filter function  15000
+ERROR - 2018-02-07 13:31:02 --> entered in filter function  4
+ERROR - 2018-02-07 13:31:02 --> entered in filter function  intership
+ERROR - 2018-02-07 13:31:02 --> entered in filter function  5000
+ERROR - 2018-02-07 13:31:02 --> entered in filter function  15000
+ERROR - 2018-02-07 13:31:31 --> entered in filter function  4
+ERROR - 2018-02-07 13:31:31 --> entered in filter function  intership
+ERROR - 2018-02-07 13:31:31 --> entered in filter function  5000
+ERROR - 2018-02-07 13:31:31 --> entered in filter function  15000
+ERROR - 2018-02-07 13:31:35 --> entered in filter function  4
+ERROR - 2018-02-07 13:31:35 --> entered in filter function  intership
+ERROR - 2018-02-07 13:31:35 --> entered in filter function  5000
+ERROR - 2018-02-07 13:31:35 --> entered in filter function  15000
+ERROR - 2018-02-07 13:31:45 --> entered in filter function  4
+ERROR - 2018-02-07 13:31:45 --> entered in filter function  intership
+ERROR - 2018-02-07 13:31:45 --> entered in filter function  5000
+ERROR - 2018-02-07 13:31:45 --> entered in filter function  15000

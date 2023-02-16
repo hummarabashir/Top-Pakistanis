@@ -1,0 +1,152 @@
+/* Form-element css start */
+
+.login_form input[type="text"],
+.login_form input[type="tel"], 
+.login_form input[type="email"], 
+textarea, 
+textarea.form-control.login_form {
+    height: 40px;
+    vertical-align: middle;
+    background: transparent;
+    border: 1px solid #cacaca;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #888;
+    -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+textarea, 
+textarea.form-control.login_form {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 30px;
+}
+
+.login_form input[type="text"]:focus,
+.login_form input[type="tel"]:focus,
+.login_form input[type="email"]:focus, 
+textarea:focus, 
+textarea.form-control.login_form:focus {
+    outline: 0;
+    background: #fff;
+    border: 2px solid #585858;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+}
+
+.login_form input[type="text"]:-moz-placeholder,.login_form input[type="tel"]:-moz-placeholder, .login_form input[type="email"]:-moz-placeholder, 
+textarea.login_form:-moz-placeholder, textarea.form-control.login_form:-moz-placeholder { color: #888; }
+
+.login_form input[type="text"]:-ms-input-placeholder,.login_form input[type="tel"]:-ms-input-placeholder, .login_form input[type="email"]:-ms-input-placeholder, 
+textarea.login_form:-ms-input-placeholder, textarea.form-control.login_form:-ms-input-placeholder { color: #888; }
+
+.login_form input[type="text"]::-webkit-input-placeholder, .login_form input[type="tel"]::-webkit-input-placeholder, .login_form input[type="email"]::-webkit-input-placeholder, 
+textarea::-webkit-input-placeholder, textarea.form-control.login_form::-webkit-input-placeholder { color: #888; }
+
+.login_form select {
+    height: 40px;
+    margin: 0;
+    vertical-align: middle;
+    background: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 50px;
+    color: #888;
+    -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s;
+    -ms-transition: all .3s; transition: all .3s;cursor: pointer;
+}
+.login_form select:focus{
+    outline: 0;
+    background: #fff;
+    border: 2px solid #585858;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+}
+button.btn.login_form {
+    height: 40px;
+    margin: 0;
+    padding: 0 10px;
+    vertical-align: middle;
+    background: #9ccb46;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 40px;
+    color: #fff;
+    text-align: center;
+    -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+    text-shadow: none;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+button.btn.login_form:hover { opacity: 0.8; color: #fff; }
+
+button.btn.login_form:active { outline: 0; opacity: 0.6; color: #fff; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+button.btn.login_form:focus { outline: 0; opacity: 0.6; background: #9ccb46; color: #fff; }
+
+button.btn.login_form:active:focus, button.btn.active:focus { outline: 0; opacity: 0.6; background: #9ccb46; color: #fff; }
+
+button.btn.btnapply {
+    height: 35px;
+    margin: 0;
+    padding: 0px 20px;
+    vertical-align: middle;
+    background: #9ccb46;
+    border: 1px solid #9ccb46;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 34px;
+    color: #fff;
+    -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px;
+    text-shadow: none;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+button.btn.btnapply:hover { color: #9ccb46; background: #fff; border: 1px solid #9ccb46;}
+
+button.btn.btnapply:active { outline: 0;color: #9ccb46; background: #fff; border: 1px solid #9ccb46;  -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+button.btn.btnapply:focus { outline: 0;color: #fff; background: #9ccb46; border: 1px solid #9ccb46;}
+
+button.btn.btnapply:active:focus, button.btn.active:focus { outline: 0;color: #fff; background: #9ccb46; border: 1px solid #9ccb46;}
+
+
+button.btn.btnsaved {
+    height: 32px;
+    margin: 0;
+    padding: 0px 25px;
+    vertical-align: middle;
+    background: #fff;
+    border: 1px solid #9ccb46;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 31px;
+    color: #9ccb46;
+    margin: 5px;
+    -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px;
+    text-shadow: none;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+button.btn.btnsaved:hover { background: #9ccb46; color: #fff;border: 1px solid #9ccb46; }
+
+button.btn.btnsaved:active { outline: 0;background: #9ccb46; color: #fff;border: 1px solid #9ccb46;  -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+button.btn.btnsaved:focus { outline: 0;background: #9ccb46; color: #fff;border: 1px solid #9ccb46; }
+
+button.btn.btnsaved:active:focus, button.btn.active:focus { outline: 0; background: #9ccb46; color: #fff;border: 1px solid #9ccb46; }
+
+.
+/* Form element css end */
+/* ***************************** */
